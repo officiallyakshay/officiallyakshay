@@ -7,5 +7,6 @@
 </h4>
 
 - I'm a coffee connoisseur ☕️
+- I love working with JavaScript + React 👾
 - I’m currently learning TypeScript and Solidity 👨🏻‍💻
 - How to reach me: akshaysprabhakar@gmail.com or Twitter <a href="https://twitter.com/_yahska" target="_blank" rel="noreferrer">@_yahska</a> 🥳
