@@ -3,7 +3,7 @@
 <h4>
   I’m a software engineer and wannabe 
     <a href="https://tiktok.com/@shayinthebay" target="_blank" rel="noreferrer">TikTok</a> 
-  influencer. I am really excited about the creator economy and Web3 so hmu if you're hiring in this space! 😄
+  influencer. I am really excited about the Creator Economy and Web3! 😄
 </h4>
 
 - I'm a coffee connoisseur ☕️
