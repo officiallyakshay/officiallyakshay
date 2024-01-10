@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **officiallyakshay/officiallyakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Akshay! 👋
+
+I’m a software engineer at JP Morgan and a content creator 👨‍💻
+
+- 👀 I’m currently working on a project for content creators and brands 
+- 🌱 Technologies I enjoy working with the most: React, Typescript
+- ⚡ Fun fact: I used to make music on Soundcloud
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-prabhakar/) or [Twitter](https://twitter.com/akshaycoding)
