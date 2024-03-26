@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Akshay! 👋
 
-I’m a software engineer at JP Morgan and a content creator 👨‍💻
+I’m a software engineer at JP Morgan and Founder @ [Partnr](https://usepartnr.com/) 👨‍💻
 
 - 👀 I’m currently working on a project for content creators and brands 
 - 🌱 Technologies I enjoy working with the most: React, Typescript
 - ⚡ Fun fact: I used to make music on Soundcloud
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-prabhakar/) or [Twitter](https://twitter.com/akshaycoding)
+
+Previous project work:
+- [Couple](https://couple-v2.webflow.io/), the first audio / video-focused dating app.
+  - Grew the waiting list to 250 people with a two-person team.
+- Hype Spaces, a virtual WeWork for content creators.
+  - Conducted over 100 user interviews to validate PMF.
