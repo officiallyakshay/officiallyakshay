@@ -25,5 +25,5 @@ I’m a software engineer at JP Morgan and Founder @ [Partnr](https://usepartnr.
 Previous project work:
 - [Couple](https://couple-v2.webflow.io/), the first audio / video-focused dating app.
   - Grew the waiting list to 250 people with a two-person team.
-- Hype Spaces, a virtual WeWork for content creators.
+- [Hype Spaces](https://github.com/officiallyakshay/hypespaces), a virtual WeWork for content creators.
   - Conducted over 100 user interviews to validate PMF.
