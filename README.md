@@ -19,7 +19,7 @@ I’m a software engineer at JP Morgan and Founder @ [Partnr](https://usepartnr.
 
 - 👀 I’m currently working on a project for content creators and brands 
 - 🌱 Technologies I enjoy working with the most: React, Typescript
-- ⚡ Fun fact: I used to make music on Soundcloud
+- ⚡ Fun fact: I used to make music on [Soundcloud](https://soundcloud.com/shayworkin)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-prabhakar/) or [Twitter](https://twitter.com/akshaycoding)
 
 Previous project work:
