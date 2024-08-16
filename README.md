@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I’m a software engineer and love building projects over the weekend 👨‍💻
 
-- 👀 I’m currently working on a project for content creators and brands 
-- 🌱 Technologies I enjoy working with the most: React, Typescript
+- 🌱 Technologies I enjoy working with the most: React, Typescript, Node, Express
+- 👀 I’m currently working on a project for micro-influencers and brands
 - ⚡ Fun fact: I used to make music on Soundcloud
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-prabhakar/) or [Twitter](https://twitter.com/akshaycoding)
 
@@ -27,3 +27,5 @@ Previous project work:
   - Grew the waiting list to 250 people with a two-person team.
 - Hype Spaces, a virtual WeWork for content creators.
   - Conducted over 100 user interviews to validate PMF.
+- Knowledge Dump, write a blog about something you know
+  - Medium vibes
