@@ -28,7 +28,7 @@ Previous project work:
 - Hype Spaces, a virtual WeWork for content creators.
   - Conducted over 100 user interviews to validate PMF.
 - Knowledge Dump, write a blog about something you know
-  - Medium vibes
+  - Blogging platform similar to Medium
 - AI Content Generator
   1. Type in the niche for the videos you make (ex: cooking)
   2. We provide you with video ideas that will make you go viral!
