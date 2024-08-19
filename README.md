@@ -30,5 +30,5 @@ Previous project work:
 - Knowledge Dump, write a blog about something you know
   - Blogging platform similar to Medium
 - AI Content Generator
-  1. Type in the niche for the videos you make (ex: cooking)
-  2. We provide you with video ideas that will make you go viral!
+  - Type in the niche for the videos you make (ex: cooking)
+  - We provide you with video ideas that will make you go viral!
