@@ -28,7 +28,7 @@ I’m a passionate software engineer who loves building cool projects over the w
 
 #### 🎤 [Couple](https://github.com/officiallyakshay/couple)
 - **Description**: The first audio/video-focused dating app.
-- **Impact**: Grew the waiting list to 250+ people with a small, dedicated team.
+- **Impact**: Grew the waiting list to 250+ people.
 
 #### 🌐 [Hype Spaces](https://github.com/officiallyakshay/hypespaces)
 - **Description**: A virtual WeWork for content creators.
