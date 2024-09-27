@@ -28,7 +28,6 @@ I’m a passionate software engineer who loves building cool projects over the w
 
 #### 🎯 [Campaign AI](https://campaign.framer.ai) (2024)
 - **Description**: An AI-powered platform that helps content creators apply to campaigns with a single click.
-- ***Merged with Partnr as a premium feature***
 
 #### 🤖 [AI Content Generator](https://github.com/officiallyakshay/ai-content-generator) (2024)
 - **Description**: Enter your niche, and get video ideas that will make you go viral!
