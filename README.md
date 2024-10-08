@@ -28,7 +28,7 @@ I’m a passionate software engineer who loves building cool projects over the w
 
 #### 📝 [Knowledge Dump](https://github.com/officiallyakshay/knowledge-dump) (2024)
 - **Description**: A blogging platform similar to Medium where you can write and share your knowledge.
-<img width="600" alt="Screen Shot 2024-09-12 at 3 02 45 PM" src="https://github.com/user-attachments/assets/7a01a0cf-d142-4d2b-8754-f71bf3c23861">
+<img width="600" alt="Screen Shot 2024-09-12 at 3 02 45 PM" src="https://github.com/user-attachments/assets/fd48d83f-fa10-4e2d-96af-da5b43794a52">
 
 #### 🌐 [Hype Spaces](https://github.com/officiallyakshay/hypespaces) (2022)
 - **Description**: A virtual WeWork for content creators.
