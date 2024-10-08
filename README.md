@@ -22,7 +22,7 @@ I’m a passionate software engineer who loves building cool projects over the w
 #### 🎯 [Campaign AI](https://campaign.framer.ai) (2024)
 - **Description**: An AI-powered platform that helps content creators apply to campaigns with a single click.
 
-#### 🤖 [AI Content Generator](https://ai-content-generator-fe.vercel.app/) (2024)
+#### 🤖 [AI Content Generator](https://github.com/officiallyakshay/ai-content-generator) (2024)
 - **Description**: Enter your niche and get video ideas that will make you go viral!
 <img width="600" alt="Screen Shot 2024-09-12 at 3 02 45 PM" src="https://github.com/user-attachments/assets/de274170-4af3-4da3-9f83-ca779e4304cf">
 
