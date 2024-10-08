@@ -17,23 +17,18 @@ I’m a passionate software engineer who loves building cool projects over the w
 
 ---
 
-### 🛠️ Active Side Projects
-
-#### 🤝 [Partnr](https://www.usepartnr.com/)
-- **Description**: A platform connecting micro-influencers with brands to secure brand deals.
-
----
-
 ### 💼 Previous Project Work
 
 #### 🎯 [Campaign AI](https://campaign.framer.ai) (2024)
 - **Description**: An AI-powered platform that helps content creators apply to campaigns with a single click.
 
-#### 🤖 [AI Content Generator](https://github.com/officiallyakshay/ai-content-generator) (2024)
-- **Description**: Enter your niche, and get video ideas that will make you go viral!
+#### 🤖 [AI Content Generator](https://ai-content-generator-fe.vercel.app/) (2024)
+- **Description**: Enter your niche and get video ideas that will make you go viral!
+<img width="600" alt="Screen Shot 2024-09-12 at 3 02 45 PM" src="https://github.com/user-attachments/assets/de274170-4af3-4da3-9f83-ca779e4304cf">
 
 #### 📝 [Knowledge Dump](https://github.com/officiallyakshay/knowledge-dump) (2024)
 - **Description**: A blogging platform similar to Medium where you can write and share your knowledge.
+<img width="600" alt="Screen Shot 2024-09-12 at 3 02 45 PM" src="https://github.com/user-attachments/assets/7a01a0cf-d142-4d2b-8754-f71bf3c23861">
 
 #### 🌐 [Hype Spaces](https://github.com/officiallyakshay/hypespaces) (2022)
 - **Description**: A virtual WeWork for content creators.
