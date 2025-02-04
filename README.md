@@ -1,7 +1,5 @@
 ### 🌟 About Me
 
-I’m a passionate software engineer who loves building cool projects over the weekend!
-
 - 👀 **Current Project**: Building AI Agents for VCs and Angel Investors
 - 🌱 **Technologies I love**: React, TypeScript, Node.js, Express, Python
 - ⚡ **Fun Fact**: I used to make music on Soundcloud
