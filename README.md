@@ -1,11 +1,3 @@
-<h1 align="center">Hi there, I'm Akshay! 👋</h1>
-
-<p align="center">
-  <em>Software Engineer | Weekend Project Enthusiast</em>
-</p>
-
----
-
 ### 🌟 About Me
 
 I’m a passionate software engineer who loves building cool projects over the weekend!
