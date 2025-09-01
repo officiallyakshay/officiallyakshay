@@ -1,6 +1,7 @@
-### 🌟 About Me
+Full-stack engineer with a product mindset. I build fast, think like a user, and ship clean, intuitive interfaces, end to end.
 
-- 👀 **Current Project**: 🤫
-- 🌱 **Technologies I love**: React, TypeScript, Node.js, Express, Python
-- ⚡ **Fun Fact**: I used to make music on Soundcloud
-- 📫 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/akshay-prabhakar/) | [Twitter](https://twitter.com/akshaycoding)
+I mainly work with TypeScript, React, Node.js, and a mix of databases. Lately, exploring AI through side projects.
+
+I’m looking for high-ownership roles where I can move fast, shape real products, and work with sharp, driven teams.
+
+See what I’ve been building: [akshaycoding.com](https://www.akshaycoding.com/)
