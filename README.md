@@ -4,4 +4,4 @@ I focus on real customer problems, shaping roadmaps, and driving outcomes, lever
 
 I’m looking for high-ownership roles where I can shape direction, drive impact, and work with sharp, driven teams.
 
-See what I’ve been building: [akshaycoding.com](https://www.akshaycoding.com/)
+See what I’ve been building: [here](https://akshayprabhakar.vercel.app/)
